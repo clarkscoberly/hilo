@@ -18,7 +18,7 @@ project folder. Select the main module inside the dice folder and click the "run
 
 
 # Authors
-Michelle Huang
-Clark Coberly
-Grant Holley
-Dallin Sevy
+* Michelle Huang
+* Clark Coberly
+* Grant Holley
+* Dallin Sevy
